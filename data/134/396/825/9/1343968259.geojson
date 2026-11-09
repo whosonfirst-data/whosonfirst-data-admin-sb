@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191583,
         85632591,
-        85681371
+        85677099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +46,13 @@
             "continent_id":102191583,
             "country_id":85632591,
             "locality_id":1343968259,
-            "region_id":85681371
+            "region_id":85677099
         }
     ],
     "wof:id":1343968259,
     "wof:lastmodified":1566638623,
     "wof:name":"Nevea",
-    "wof:parent_id":85681371,
+    "wof:parent_id":85677099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sb",
     "wof:superseded_by":[],

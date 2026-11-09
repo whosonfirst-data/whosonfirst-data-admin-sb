@@ -38,7 +38,7 @@
     "wof:belongsto":[
         102191583,
         85632591,
-        85681371
+        85677109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +51,13 @@
             "continent_id":102191583,
             "country_id":85632591,
             "locality_id":1360295659,
-            "region_id":85681371
+            "region_id":85677109
         }
     ],
     "wof:id":1360295659,
     "wof:lastmodified":1566638823,
     "wof:name":"Nafinuatogho",
-    "wof:parent_id":85681371,
+    "wof:parent_id":85677109,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sb",
     "wof:superseded_by":[],

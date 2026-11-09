@@ -37,7 +37,7 @@
     "wof:belongsto":[
         102191583,
         85632591,
-        85681371
+        85677109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +50,13 @@
             "continent_id":102191583,
             "country_id":85632591,
             "locality_id":1310615555,
-            "region_id":85681371
+            "region_id":85677109
         }
     ],
     "wof:id":1310615555,
     "wof:lastmodified":1566638809,
     "wof:name":"Raghapu",
-    "wof:parent_id":85681371,
+    "wof:parent_id":85677109,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sb",
     "wof:superseded_by":[],
