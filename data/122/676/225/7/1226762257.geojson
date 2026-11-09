@@ -41,7 +41,7 @@
         "wk:page":"Visale"
     },
     "wof:country":"SB",
-    "wof:geomhash":"425737ff178243b5bc26b4893e23cd72",
+    "wof:geomhash":"685c4d79c6ca536eafc579b6cf4249a3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,5 +66,5 @@
     157.33333000000005,
     -8.6
 ],
-  "geometry": {"coordinates":[157.33333000000005,-8.6],"type":"Point"}
+  "geometry": {"coordinates":[157.33333,-8.6],"type":"Point"}
 }

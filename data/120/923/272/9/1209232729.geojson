@@ -40,7 +40,7 @@
         "wk:page":"Sahasahakama"
     },
     "wof:country":"SB",
-    "wof:geomhash":"88eff871ececc86f24426f44d140349f",
+    "wof:geomhash":"fc803e9d7867d8a06e7ebe3b1f8edb9a",
     "wof:hierarchy":[
         {
             "country_id":85632591,
@@ -63,5 +63,5 @@
     160.08778999999996,
     -9.61247
 ],
-  "geometry": {"coordinates":[160.08778999999996,-9.61247],"type":"Point"}
+  "geometry": {"coordinates":[160.08779,-9.61247],"type":"Point"}
 }

@@ -41,7 +41,7 @@
         "wk:page":"Niupani"
     },
     "wof:country":"SB",
-    "wof:geomhash":"be24f02f47e6eb76cc9a30dc07d4ec46",
+    "wof:geomhash":"3cb0ab2aa525eac8608c6807917ec638",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,5 +66,5 @@
     160.41973000000004,
     -11.72301
 ],
-  "geometry": {"coordinates":[160.41973000000004,-11.72301],"type":"Point"}
+  "geometry": {"coordinates":[160.41973,-11.72301],"type":"Point"}
 }

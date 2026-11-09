@@ -33,7 +33,7 @@
         "wk:page":"Nggeukama"
     },
     "wof:country":"SB",
-    "wof:geomhash":"9dd284ec645ad8f1966f931022157b96",
+    "wof:geomhash":"8c54b2220650d2376c8541dc26b0565c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,5 +58,5 @@
     160.0,
     -9.41667
 ],
-  "geometry": {"coordinates":[160.0,-9.41667],"type":"Point"}
+  "geometry": {"coordinates":[160,-9.41667],"type":"Point"}
 }

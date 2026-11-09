@@ -36,7 +36,7 @@
         "gn:id":2106539
     },
     "wof:country":"SB",
-    "wof:geomhash":"6100023c90d0ef162953554129f2c795",
+    "wof:geomhash":"b3af325a07cc709356daa4a7d737ebca",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,5 +61,5 @@
     160.66666999999995,
     -9.81667
 ],
-  "geometry": {"coordinates":[160.66666999999995,-9.81667],"type":"Point"}
+  "geometry": {"coordinates":[160.66667,-9.81667],"type":"Point"}
 }

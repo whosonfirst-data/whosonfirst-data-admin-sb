@@ -47,7 +47,7 @@
         "wk:page":"Chamburu"
     },
     "wof:country":"SB",
-    "wof:geomhash":"9d93f09638f8b8a1d12e360c2f1ca4be",
+    "wof:geomhash":"c0ef79beb5acc7610e7b381053d5c2c8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,5 +72,5 @@
     159.67431000000005,
     -9.26931
 ],
-  "geometry": {"coordinates":[159.67431000000005,-9.26931],"type":"Point"}
+  "geometry": {"coordinates":[159.67431,-9.26931],"type":"Point"}
 }

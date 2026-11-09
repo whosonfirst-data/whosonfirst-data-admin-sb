@@ -50,7 +50,7 @@
         "wk:page":"Yandina%2C_Solomon_Islands"
     },
     "wof:country":"SB",
-    "wof:geomhash":"a086f5472072b459205e597f9d4be7ee",
+    "wof:geomhash":"3e693aeda3350939eec44720dcae3253",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -75,5 +75,5 @@
     159.21936000000005,
     -9.07926
 ],
-  "geometry": {"coordinates":[159.21936000000005,-9.07926],"type":"Point"}
+  "geometry": {"coordinates":[159.21936,-9.07926],"type":"Point"}
 }

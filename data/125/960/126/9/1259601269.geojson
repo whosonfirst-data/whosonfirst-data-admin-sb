@@ -41,7 +41,7 @@
         "wk:page":"Kologhona"
     },
     "wof:country":"SB",
-    "wof:geomhash":"a64f579bffaa35dbf1d7cb118cb87f2c",
+    "wof:geomhash":"102b4a49c5d1b988f2cc37b31031b3a1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,5 +66,5 @@
     159.82138999999995,
     -9.73099
 ],
-  "geometry": {"coordinates":[159.82138999999995,-9.73099],"type":"Point"}
+  "geometry": {"coordinates":[159.82139,-9.73099],"type":"Point"}
 }
