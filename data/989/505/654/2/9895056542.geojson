@@ -1,0 +1,73 @@
+{
+  "id": 9895056542,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.05329,-9.42497,160.05329,-9.42497",
+    "geom:latitude":-9.42497,
+    "geom:longitude":160.05329,
+    "gn:population":15560,
+    "iso:country":"SB",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13527001: name \"Malango\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13527001"
+        },
+        {
+            "citation":"GeoNames populated place 13527001: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13527001"
+        },
+        {
+            "citation":"GeoNames populated place 13527001: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13527001"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85677089 (Guadalcanal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591,
+        85677089,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13527001
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"5c61aceb9873d2f08fd993e286461051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":9895056542,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":9895056542,
+    "wof:lastmodified":1795735249,
+    "wof:name":"Malango",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.05329,
+    -9.42497,
+    160.05329,
+    -9.42497
+],
+  "geometry": {"coordinates":[160.05329,-9.42497],"type":"Point"}
+}

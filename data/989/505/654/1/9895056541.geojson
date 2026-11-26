@@ -1,0 +1,72 @@
+{
+  "id": 9895056541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.90006,-11.64987,166.90006,-11.64987",
+    "geom:latitude":-11.64987,
+    "geom:longitude":166.90006,
+    "iso:country":"SB",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11874061: name \"Banie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11874061"
+        },
+        {
+            "citation":"GeoNames populated place 11874061: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11874061"
+        },
+        {
+            "citation":"GeoNames populated place 11874061: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11874061"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85677099 (Temotu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591,
+        85677099,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11874061
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"9f6ec2ce7d21dbb5293795fa560a1524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":9895056541,
+            "region_id":85677099
+        }
+    ],
+    "wof:id":9895056541,
+    "wof:lastmodified":1795735249,
+    "wof:name":"Banie",
+    "wof:parent_id":85677099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.90006,
+    -11.64987,
+    166.90006,
+    -11.64987
+],
+  "geometry": {"coordinates":[166.90006,-11.64987],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895056543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.94549,-9.44666,159.94549,-9.44666",
+    "geom:latitude":-9.44666,
+    "geom:longitude":159.94549,
+    "gn:population":24592,
+    "iso:country":"SB",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13527002: name \"Tandai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13527002"
+        },
+        {
+            "citation":"GeoNames populated place 13527002: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13527002"
+        },
+        {
+            "citation":"GeoNames populated place 13527002: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13527002"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85677089 (Guadalcanal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591,
+        85677089,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13527002
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"72178cf4178daec2d7ce66ea325c09fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":9895056543,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":9895056543,
+    "wof:lastmodified":1795735249,
+    "wof:name":"Tandai",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.94549,
+    -9.44666,
+    159.94549,
+    -9.44666
+],
+  "geometry": {"coordinates":[159.94549,-9.44666],"type":"Point"}
+}
